@@ -4,6 +4,11 @@ DirectShow播放USB Camera视频及抓图的实现
 2. MPEG Decode Filter
 3. Video Renderer Filter
 
+参考：
+- https://blog.csdn.net/lwwl12/article/details/109814229
+- [DirectShow实现USB相机预览和抓图例子（使用ICaptureGraphBuilder2）](https://blog.csdn.net/lwwl12/article/details/110087109)
+- [DirectShow实现USB相机预览和抓图例子（手动构建filter链）](https://blog.csdn.net/lwwl12/article/details/110223158)
+
 *******
 
 目标：
